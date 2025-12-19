@@ -4,7 +4,8 @@ collection: working_papers
 permalink: /working-papers/public-spending-infrastructure/
 excerpt: "Working paper on how changes in public spending and major public infrastructures relate to local development, using Canadian census data (1981–2021) and causal designs (DiD / event-study), including spatial spillovers."
 date: 2025-01-01
-venue: "Working paper"
+type : "Working paper"
+venue: INRS
 location: "Canada"
 ---
 
