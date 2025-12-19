@@ -8,4 +8,4 @@ date: 2024-11-13
 location: "New Orleans, LA, USA"
 ---
 
-Conference presentation (with Jean Dubé).
+Co-authored with [Jean Dubé](https://esad.faaad.ulaval.ca/personnel/professeurs/jean-dube). Presentation delivered by Jean Dubé.
