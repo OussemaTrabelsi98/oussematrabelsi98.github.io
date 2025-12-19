@@ -12,9 +12,9 @@ main:
     url: /publications/
 
   - title: "Conferences"
-    url: /talks/    
+    url: /Conferences/    
 
-  - title: "Teaching"
+  - title: "Working Papers"
     url: /teaching/    
   
   - title: "CV"
