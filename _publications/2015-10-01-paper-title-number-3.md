@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Exploring the Local Impacts of Universities on Socioeconomic Characteristics and Housing Markets in Canadian Urban Regions, 1981–2016: A Spatial Panel Modelling Approach"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2025-12-08-universities-housing-markets
+excerpt: "Spatial panel modelling evidence on how proximity to major university campuses relates to socioeconomic change and housing markets in Canadian urban regions (1981–2016)."
+date: 2025-12-08
+venue: "Journal of Urban Affairs"
+paperurl: "/files/Trabelsi-Revington-Brunelle_JUA_AM.pdf"
+citation: 'Trabelsi, O., Revington, N., & Brunelle, C. (2025). "Exploring the local impacts of universities on socioeconomic characteristics and housing markets in Canadian urban regions, 1981–2016: A spatial panel modelling approach." <i>Journal of Urban Affairs</i>, 1–18. https://doi.org/10.1080/07352166.2025.2587142'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Version of record (publisher): https://www.tandfonline.com/doi/full/10.1080/07352166.2025.2587142
