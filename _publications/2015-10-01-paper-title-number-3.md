@@ -7,6 +7,6 @@ excerpt: "This study examines the spatiotemporal economic and social transformat
 date: 2025-12-08
 venue: "Journal of Urban Affairs"
 paperurl: "/files/Trabelsi-Revington-Brunelle_JUA_AM.pdf"
-citation: 'Trabelsi, O., [Revington, N.](https://inrs.ca/en/research/professors/nick-revington/), & [Brunelle, C.](https://inrs.ca/la-recherche/professeurs/cedric-brunelle/) (2025). "Exploring the local impacts of universities on socioeconomic characteristics and housing markets in Canadian urban regions, 1981–2016: A spatial panel modelling approach." <i>Journal of Urban Affairs</i>, 1–18. https://doi.org/10.1080/07352166.2025.2587142'
+citation: 'Trabelsi, O., <a href="https://inrs.ca/en/research/professors/nick-revington/">Revington, N.</a>, &amp; <a href="https://inrs.ca/la-recherche/professeurs/cedric-brunelle/">Brunelle, C.</a> (2025). &quot;Exploring the local impacts of universities on socioeconomic characteristics and housing markets in Canadian urban regions, 1981–2016: A spatial panel modelling approach.&quot; <i>Journal of Urban Affairs</i>. https://doi.org/10.1080/07352166.2025.2587142'
 ---
 Version of record (publisher): https://www.tandfonline.com/doi/full/10.1080/07352166.2025.2587142
