@@ -3,6 +3,8 @@ title: "Universities and Neighbourhood Change across the Canadian Urban System, 
 collection: working_papers
 permalink: /working-papers/universities-neighbourhood-change/
 excerpt: "Working paper comparing university-adjacent census tracts with other neighbourhoods across Canadian urban areas (1981–2016) using consistent tract boundaries and indicators spanning housing markets and socioeconomic change."
+date: "2025"
+
 ---
 
 **Co-authors:** <a href="https://inrs.ca/en/research/professors/nick-revington/">Nick Revington</a>; <a href="https://inrs.ca/la-recherche/professeurs/cedric-brunelle/">Cédric Brunelle</a>
