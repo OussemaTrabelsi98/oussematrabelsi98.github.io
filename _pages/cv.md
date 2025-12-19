@@ -11,8 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Urban Planning, McGill University, Montréal, QC, 2028 (expected)
-* M.Sc. in Urban Studies, Montréal, QC, 2022–2024
+* Ph.D. in Urban Planning, McGill University, Montréal, QC, 2028 (expected)  
+  * Supervisor: [David Wachsmuth](https://www.mcgill.ca/urbanplanning/david-wachsmuth)
+  
+* M.Sc. in Urban Studies, Montréal, QC, 2022–2024  
+  * Primary supervisor: [Nick Revington](https://inrs.ca/en/research/professors/nick-revington/)  
+  * Co-supervisor: [Cédric Brunelle](https://inrs.ca/la-recherche/professeurs/cedric-brunelle/)
+
 * B.B.A. (Bachelor of Business Administration), Institut Supérieur des Études Technologiques, Sfax, Tunisia, 2017–2020
 
 Work experience
