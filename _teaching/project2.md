@@ -1,4 +1,3 @@
-# _working_papers/universities-neighbourhood-change.md
 ---
 title: "Universities and Neighbourhood Change across the Canadian Urban System, 1981–2016"
 collection: working_papers
